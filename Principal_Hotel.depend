@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510854607 source:c:\users\949398\desktop\trab guta\principal_hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"FuncoesHotel.h"
+
+1510853718 c:\users\949398\desktop\trab guta\principal_hotel\funcoeshotel.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
