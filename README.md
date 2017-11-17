@@ -1,2 +1,2 @@
 # ReservaHotel
-Hotel reservation system programming in C for academic purpose.
+Hotel reservation system programmed in C for academic purpose.
